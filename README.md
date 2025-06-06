@@ -12,3 +12,5 @@ Traditional methods for tracking inflammation—blood tests or symptom logs—ar
 
 Wearable Patch: Samples sweat hourly, measures biomarkers, and sends encrypted data via Bluetooth.
 
+<a href= "https://github.com/Saewdeh-Habibi/Flare-Watch-App/blob/main/Flare%20Watch.%20Product%20Strategy.pdf">**Read Product Strategy**</a>
+
